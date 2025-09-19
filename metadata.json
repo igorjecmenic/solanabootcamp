@@ -1,6 +1,6 @@
 {
 	"name" : "iSol Token",
-	"symbol" : "iSol",
-	"description" : "",
+	"symbol" : "ISOL",
+	"description" : "Example Token for Solana Foundation Bootcamp.",
 	"image" : "https://raw.githubusercontent.com/igorjecmenic/solanabootcamp/main/isol.png"
 }
